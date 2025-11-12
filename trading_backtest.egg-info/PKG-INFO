@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: trading_backtest
+Version: 0.1
+Requires-Dist: fastapi>=0.115.2
+Requires-Dist: uvicorn>=0.30.6
+Requires-Dist: pandas>=2.2.2
+Requires-Dist: numpy>=1.26.4
+Requires-Dist: SQLAlchemy>=2.0.34
+Requires-Dist: aiofiles>=23.2.1
+Requires-Dist: python-multipart>=0.0.9
+Requires-Dist: pydantic>=2.9.2
+Requires-Dist: plotly>=5.24.1
+Requires-Dist: tqdm>=4.66.5
+Requires-Dist: pymongo>=4.6.3
+Requires-Dist: motor>=3.3.2
+Dynamic: requires-dist
